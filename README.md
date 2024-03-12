@@ -4,7 +4,7 @@
 
 ### About Me!
 ##### 
-👋 Hello! I'm a 24-year-old full-stack developer passionate about my profession. 
+👋 I have a bachelor's degree in computer science and a 24-year-old full-stack developer passionate about my profession.
 
 🚀 I have been working with Laravel and Vue.Js for five years using other tools such as PHP, NodeJs, JavaScript, TypeScript, PHPspreadsheet, MySql, NoSql, Docker, WSL, AWS, among others.
 
