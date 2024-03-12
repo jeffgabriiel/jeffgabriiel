@@ -7,7 +7,7 @@
 ##### 
 👋 Hello! I'm a 24-year-old full-stack developer passionate about my profession. 
 
-🚀 I have been working with Laravel and Vue.Js for five years using other tools such as JavaScript, TypeScript, PHPspreadsheet, MySql, NoSql, Docker, WSL, AWS, among others.
+🚀 I have been working with Laravel and Vue.Js for five years using other tools such as PHP, NodeJs, JavaScript, TypeScript, PHPspreadsheet, MySql, NoSql, Docker, WSL, AWS, among others.
 
 🌐 My career is marked by a continuous commitment to learning. The rapid evolution of the technological landscape is a constant stimulus, leading me to explore opportunities to improve my skills and open new paths.
 ##### 
@@ -19,3 +19,4 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png"></code>
