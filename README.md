@@ -3,7 +3,6 @@
 ##### FullStack Developer
 
 ### About Me!
-
 ##### 
 👋 Hello! I'm a 24-year-old full-stack developer passionate about my profession. 
 
